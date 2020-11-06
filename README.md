@@ -34,7 +34,14 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 1. Input the name you want displayed in the **Package Title** field
 1. Click “Build Package”
 
-## Multiple Packages
 
+## Multiple Packages
 1. Select the **Multiple Packages** tab
-1. Organize your directory as below, and modify the "sample.csv" file to point to actual files
+1. Organize your files in their respective directories
+1. Click on "Load File" and select your .CSV file
+1. Click “Run Batch Build” and monitor the build process through the 'Batch Build Log'
+
+
+
+### Warning
+Batch mode will overwrite old files without asking
