@@ -18,7 +18,7 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 - Single Package Build
 - Multiple Package Batch Build
 - Saveable Batch Build Logs
-- Drag & Drop for all fields with file input {ROM; Core; BoxArt; BezelArt; CSV}
+- Drag & Drop all fields with file input {ROM; Core; BoxArt; BezelArt; CSV}
 - Supports Multiple image formats {BMP; JPEG; JPG} with Auto-Conversion to .PNG
 - Auto Resize BoxArt (222x306) and BezelArt (1280x720)
 - Create, Set, and Save Directories
@@ -26,15 +26,15 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 
 
 ## Single Package
-1. Select "Single Package" under the "Packages" section.
-1. Fill in the "Game Title" field with what you would like to display on your ALU.
-1. (optional) Select box art.
-1. (optional) Select bezel art.
-1. Select an emulator core (.so).
-1. Select a game ROM.
-1. Click “Build Package…”, then select a path to save the UCE package.
+1. Select the **Single Package** tab
+1. Select game ROM
+1. Select an Core (.so)
+1. ***(optional)*** Select Box Art
+1. ***(optional)*** Select Bezel Art
+1. Input the name you want displayed in the **Package Title** field
+1. Click “Build Package”
 
 ## Multiple Packages
 
-1. Select "Multiple Packages" under the "Packages" section.
-2. Organize your directory as below, and modify the "sample.csv" file to point to actual files
+1. Select the **Multiple Packages** tab
+1. Organize your directory as below, and modify the "sample.csv" file to point to actual files
