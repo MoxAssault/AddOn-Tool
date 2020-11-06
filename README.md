@@ -22,7 +22,7 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 - Supports Multiple image formats {BMP; JPEG; JPG} with Auto-Conversion to .PNG
 - Auto Resize BoxArt (222x306) and BezelArt (1280x720)
 - Create, Set, and Save Directories
-- Create the proper USB folder structure for standard AddOn or CoinOpsX
+- Create USB folder structure for standard AddOn or CoinOpsX
 
 
 ## Single Package
