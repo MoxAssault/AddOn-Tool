@@ -20,7 +20,7 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 - Saveable Batch Build Logs
 - Drag & Drop all fields with file input {ROM; Core; BoxArt; BezelArt; CSV}
 - Supports Multiple image formats {BMP; JPEG; JPG} with Auto-Conversion to .PNG
-- Auto Resize BoxArt (222x306) and BezelArt (1280x720)
+- Auto Resize BoxArt ***(222x306)*** and BezelArt ***(1280x720)***
 - Create, Set, and Save Directories
 - Create USB folder structure for standard AddOn or CoinOpsX
 
