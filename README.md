@@ -15,7 +15,7 @@ It is the end user's sole legal responsibility to obtain any and all rights to u
 
 
 ## Current Features
-> Single Package Build
+- Single Package Build
     - Drag & Drop ROM, Core, and Image Files
     - Auto Resize Bezel Art (1280x720) and Box Art (222x306)
     - Supports [.BMP][.JPEG][.JPG]
